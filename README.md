@@ -4,7 +4,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-<a href="https://github.com/CaiqueM013/Desafio-Dio-Ebook/tree/main"> Clique aqui para ler</a>
+<a href="(https://github.com/CaiqueM013/Desafio-Dio-Ebook/blob/main/Output/Ebook.pdf)"> Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas
 
